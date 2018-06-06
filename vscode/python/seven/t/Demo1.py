@@ -1,0 +1,9 @@
+condition = True
+
+a = 1
+b = 2
+c = 3
+d = 1
+# while condition:
+#     print("I am ")
+ 
